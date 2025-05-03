@@ -1,5 +1,5 @@
 #🍋 SQUEEZE! - Financial Literacy Simulation Game
-##Nicholas Filipov, Diego Bravo, Jose Bolanos, Alejandro Bravo
+Nicholas Filipov, Diego Bravo, Jose Bolanos, Alejandro Bravo
 
 ##🎮 Overview
 SQUEEZE! is a 2D educational simulation game that teaches players essential financial literacy and basic business management skills through the engaging experience of running a lemonade stand.
